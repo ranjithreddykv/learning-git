@@ -1,6 +1,7 @@
-# Learn about git and github
+# Coder
 
-Hello , I am Ranjith next big thing in coding
+Hello , I am Ranjith .
+Aspairing Software Engineer
 
 ```javascript
 console.log("hello world");
